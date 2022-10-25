@@ -1,6 +1,6 @@
-let score = prompt("What is your score")
+let score = prompt("What is your score");
 if (score >  80){
-    document.write("Grad A")
+    document.write("Grad A");
 if(score > 90){
     document.write("Reward $100");
 }
@@ -12,5 +12,5 @@ else{
 }
 }
 else{
-    document.write("Failed")
+    document.write("Failed");
 }
